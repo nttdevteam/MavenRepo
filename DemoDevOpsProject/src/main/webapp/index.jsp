@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DevOps Demo</title>
+<title>DevOps First Demo</title>
 <script src="js/angular/angular.min.js"></script>
 </head>
 <body>
